@@ -18,6 +18,7 @@ For running the `App` in the browser:
 ```bash
 npm start
 ```
+![App](./doc/react_showcase_app.png)
 
 ## Storybook
 
@@ -26,6 +27,8 @@ For running storybook and being able to interact with the library components:
 ```bash
 npm run storybook
 ```
+
+![Storybook UI](./doc/react_showcase_storybook.png)
 
 ## Linting
 
